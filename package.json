@@ -1,0 +1,15 @@
+{
+  "name": "superhero",
+  "version": "1.0.0",
+  "description": "This is my first code with npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ritesh yadav",
+  "license": "ISC",
+  "dependencies": {
+    "sillyname": "^0.1.0",
+    "superheroes": "^3.0.0"
+  }
+}
